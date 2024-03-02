@@ -1,18 +1,20 @@
-Java Game: WaveWar Bullet Blitz
-This repository showcases a Java game titled "WaveWar: Bullet Blitz," developed using the Ant build system and NetBeans IDE. Dive into the world of intense bullet dodging, challenging enemies, and captivating gameplay.
+# WaveWar: Bullet Blitz - Java Game
 
-Game Overview
-Title: WaveWar: Bullet Blitz
-Language: Java
-Build System: Apache Ant
-IDE: NetBeans
-How to Play
-Clone the Repository:
+This repository features a Java game titled "WaveWar: Bullet Blitz," built using the Ant build system and NetBeans IDE.
 
-bash
-Copy code
-git clone https://github.com/your-username/WaveWar-Bullet-Blitz.git
-cd WaveWar-Bullet-Blitz
+## Game Overview
+
+- **Title:** WaveWar: Bullet Blitz
+- **Language:** Java
+- **Build System:** Apache Ant
+- **IDE:** NetBeans
+
+## How to Play
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/mracy/WaveWar-Bullet-Blitz.git
+   
 Build with Ant:
 
 bash
@@ -31,14 +33,15 @@ Enemy Challenges: Face various enemy types with unique attack patterns.
 Immersive Gameplay: Enjoy captivating graphics and engaging visual effects.
 
 Development Tools
-NetBeans IDE: The game is developed using the NetBeans integrated development environment.
+NetBeans IDE: Developed using the NetBeans integrated development environment.
 
-Ant Build System: The Apache Ant build system is employed for streamlined project management.
+Ant Build System: Utilizing Apache Ant for streamlined project management.
 
 Contributions
-Contributions are welcome! If you have suggestions, bug fixes, or improvements, feel free to open issues or submit pull requests.
+Contributions are welcome! For suggestions, bug fixes, or improvements, feel free to open issues or submit pull requests.
 
 License
-This Java game is open-sourced under the HIT License. Feel free to explore, modify, and share the code following the terms of the license.
+This Java game is open-sourced under the HIT License. Explore, modify, and share the code following the terms of the license.
 
 Start your bullet-dodging adventure now! 🚀🎮
+
